@@ -4,7 +4,7 @@
 
 Scan this QR code to visit my LinkedIn profile:
 
-![QR Code](files/qr_code.png)
+![QR Code](files/qr_saulramosvaca.png)
 
 **LinkedIn:** [www.linkedin.com/in/saulramosvaca](https://www.linkedin.com/in/saulramosvaca)
 
@@ -12,7 +12,7 @@ Scan this QR code to visit my LinkedIn profile:
 
 ## 📥 Download Resume
 
-**[Download My Resume (PDF)](files/CV%20RESUME%20Saul%20Ramos%20Vaca.pdf)**
+**[Download My Resume (PDF)](files/CV_RESUME_SaulRamosVaca.pdf)**
 
 ---
 
