@@ -117,7 +117,7 @@ Distributed file systems such as GlusterFS and NFS shares.
 
 Scan this QR code to visit my LinkedIn profile:
 
-![QR Code](files/qr_saulramosvaca.png)
+![QR Code](files/qr_saulramosvaca_linkedin.png)
 
 **LinkedIn:** [www.linkedin.com/in/saulramosvaca](https://www.linkedin.com/in/saulramosvaca)
 
