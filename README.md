@@ -1,15 +1,5 @@
 # Saul Ramos Vaca - CV
 
-## 📱 QR Code
-
-Scan this QR code to visit my LinkedIn profile:
-
-![QR Code](files/qr_saulramosvaca.png)
-
-**LinkedIn:** [www.linkedin.com/in/saulramosvaca](https://www.linkedin.com/in/saulramosvaca)
-
----
-
 ## 📥 Download Resume
 
 **[Download My Resume (PDF)](files/CV_RESUME_SaulRamosVaca.pdf)**
@@ -23,14 +13,16 @@ You're not alone. Most teams ship tools—not reliable platforms.
 
 Hi, I'm Saúl, a Freelance SRE/DevOps Cloud and Platform Engineer (AWS & Azure). Since 2020 I've owned production reliability, CI/CD, and Kubernetes for MatrixBooking and other teams—shipping fast without sacrificing security, cost control, or sleep.
 
-### What I actually deliver (real-world, hands-on):
-✅ IaC-first platforms with Terraform (multi-account AWS/Azure, repeatable, auditable)
-✅ Kubernetes done right (EKS/AKS), secure networking, and sane release workflows
-✅ CI/CD that flies (Bitbucket/GitLab/GitHub) with approvals, promos, and rollbacks
-✅ Observability that matters (CloudWatch, Azure Monitor, Datadog) tied to SLOs
-✅ Security + DR baked in (WAFv2, TLS, IAM/RBAC, RDS/Aurora backups, tested runbooks)
+### What I actually deliver (real-world, hands-on)
 
-### If you're looking to:
+- IaC-first platforms with Terraform (multi-account AWS/Azure, repeatable, auditable)
+- Kubernetes done right (EKS/AKS), secure networking, and sane release workflows
+- CI/CD that flies (Bitbucket/GitLab/GitHub) with approvals, promos, and rollbacks
+- Observability that matters (CloudWatch, Azure Monitor, Datadog) tied to SLOs
+- Security + DR baked in (WAFv2, TLS, IAM/RBAC, RDS/Aurora backups, tested runbooks)
+
+### If you're looking to
+
 • Ship faster with multi-stage, gated deployments
 • Migrate or containerize safely (EKS/AKS), zero-downtime where it counts
 • Cut cloud spend without surprises (spot/on-demand mix, right-sizing, caching)
@@ -39,6 +31,7 @@ Hi, I'm Saúl, a Freelance SRE/DevOps Cloud and Platform Engineer (AWS & Azure).
 Then I can help.
 
 ### Top skills
+
 DevOps • Amazon Web Services (AWS) • Microsoft Azure • Infrastructure as code (IaC) • CCNP
 
 ---
@@ -52,6 +45,7 @@ Computer Networking • Telecommunications • Data Recovery • Network Support
 ## 🚀 Experience
 
 ### Founder
+
 **SRV TechXpert S.L.** • Self-employed  
 *Jan 2023 - Present* • 2 yrs 11 mos  
 Madrid, Community of Madrid, Spain • Remote
@@ -63,6 +57,7 @@ Founder - IT Consultancy Company specialises in DevOps and Cloud Services
 ---
 
 ### Lead DevOps | Cloud and Platform Engineer | SRE
+
 **Matrix Booking Ltd** • Contract  
 *Apr 2021 - Present* • 4 yrs 8 mos
 
@@ -74,6 +69,7 @@ Founder - IT Consultancy Company specialises in DevOps and Cloud Services
 ---
 
 ### SRE DevOps
+
 **CenturyLink** • Full-time  
 *May 2020 - Apr 2021* • 1 yr  
 Madrid, Community of Madrid, Spain
@@ -86,6 +82,7 @@ Madrid, Community of Madrid, Spain
 ---
 
 ### DevOps Cloud Architect
+
 **Keytree** • Full-time  
 *Oct 2018 - Apr 2020* • 1 yr 7 mos  
 Madrid, Madrid, Spain
@@ -98,6 +95,7 @@ Madrid, Madrid, Spain
 ---
 
 ### DevOps Cloud Architect
+
 **Sngular** • Full-time  
 *Dec 2017 - Sep 2018* • 10 mos  
 Greater Madrid Metropolitan Area
@@ -112,6 +110,16 @@ Distributed file systems such as GlusterFS and NFS shares.
 ## 📋 Contact Information
 
 - **LinkedIn:** [https://www.linkedin.com/in/saulramosvaca](https://www.linkedin.com/in/saulramosvaca)
+
+---
+
+## 📱 QR Code
+
+Scan this QR code to visit my LinkedIn profile:
+
+![QR Code](files/qr_saulramosvaca.png)
+
+**LinkedIn:** [www.linkedin.com/in/saulramosvaca](https://www.linkedin.com/in/saulramosvaca)
 
 ---
 
